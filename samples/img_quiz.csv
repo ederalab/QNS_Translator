@@ -1,0 +1,21 @@
+﻿#;Question;No of answers;Answer 1;Correct 1;Answer 2;Correct 2;Answer 3;Correct 3;Answer 4;Correct 4
+1;1 - Riconosci questa regione?;4;Abruzzo;Y;Veneto;;Friuli Venezia Giulia;;Liguria;
+2;2 - Riconosci questa regione?;4;Veneto;;Friuli Venezia Giulia;;Trentino Alto Adige;Y;Piemonte;
+3;3 - Riconosci questa regione?;4;Campania;;Puglia;;Basilicata;;Lazio;Y
+4;4 - Quale delle due è il Molise?;2;.;Y;.;;;;;
+5;5 - Riconosci questa regione?;4;Emilia Romagna;;Piemonte;;Veneto;;Lombardia;Y
+6;6 - Riconosci questa regione?;4;Puglia;;Liguria;Y;Calabria;;Emilia Romagna;
+7;7 - Riconosci questa regione?;4;Piemonte;Y;TrentinoAlto Adige;;Lombardia;;Friuli Venezia Giulia;
+8;8 - Quale delle due è la Campania?;2;.;;.;Y;;;;
+9;9 - Riconosci questa regione?;4;Veneto;;Friuli Venezia Giulia;;Umbria;Y;Marche;
+10;10 - Riconosci questa regione?;4;Calabria;;Liguria;;Marche;;Puglia;Y
+11;11 - Riconosci questa regione?;4;Friuli Venezia Giulia;Y;Veneto;;Lombardia;;Trentino Alto Adige;
+12;12 - Riconosci questa regione?;4;Emilia Romagna;;Basilicata;;Sardegna;;Sicilia;Y
+13;13 - Quale delle due è la Basilicata?;2;.;;.;Y;;;;
+14;14 - Riconosci questa regione?;4;Sardegna;Y;Umbria;;Piemonte;;Basilicata;
+15;15 - Riconosci questa regione?;4;Campania;;Friuli Venezia Giulia;;Calabria;Y;Puglia;
+16;16 - Riconosci questa regione?;4;Molise;;Marche;Y;Umbria;;Veneto;
+17;17 - Quale delle due è la Lombardia?;2;.;Y;.;;;;;
+18;18 - Riconosci questa regione?;4;Friuli Venezia Giulia;;TrentinoAlto Adige;;Veneto;Y;Piemonte;
+19;19 - Riconosci questa regione?;4;Abruzzo;;Molise;;Marche;;Campania;Y
+20;20 - Riconosci questa regione?;4;Valle d'Aosta;Y;Umbria;;Molise;;Basilicata;
